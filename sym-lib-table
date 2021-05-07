@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name reddit-pcb)(type Legacy)(uri ${KIPRJMOD}/reddit-pcb.lib)(options "")(descr ""))
+)
